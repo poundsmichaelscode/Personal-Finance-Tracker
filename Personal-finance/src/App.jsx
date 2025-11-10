@@ -1,6 +1,7 @@
 import React from "react";
 import Dashboard from "./Components/pages/Dashboard";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
+
 
 function App() {
   return (
