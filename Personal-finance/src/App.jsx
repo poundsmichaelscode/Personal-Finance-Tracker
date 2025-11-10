@@ -1,6 +1,6 @@
 import React from "react";
 import Dashboard from "./Components/pages/Dashboard";
-import Navbar from "./components/Navbar";
+import Navbar from "./Components/navbar";
 
 
 function App() {
